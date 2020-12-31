@@ -56,6 +56,6 @@ Transfer Reactions in Water. Journal of Chemical Theory and Computation. 10, 288
 #### (B) Published Conference Proceedings:
 1. L MacKay, A Sherman, SS Stojilkovic and A Khadra. Deciphering the Kinetic and Gating
 Properties of Purinergic P2X7 Receptor Channels. Athens Journal of Natural & Formal Sciences,
-Proceedings of the 1 st Annual International Conference on Physics & Chemistry, Athens, Greece, 43–
+Proceedings of the 1st Annual International Conference on Physics & Chemistry, Athens, Greece, 43–
 55, 2014.
 
