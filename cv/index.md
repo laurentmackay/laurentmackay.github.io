@@ -34,7 +34,7 @@ Stochastic Processes, Feature Extraction, Vectorization & Code Optimization.
       * Intro to Electromagnetism (PHYS 102): Jan-Apr 2014 (Physics)
       
 ### PUBLICATIONS
-***(A) Published Papers:***
+**(A) Published Papers:**
 1. Laurent MacKay, Etienne Lehman, Anmar Khadra. Deciphering the dynamics of
 lamellipodium in a fish keratocytes model. 
 *[Journal of Theoretical Biology – In press]*
@@ -53,8 +53,9 @@ of P2X4 Receptor Channel Gating by Ivermectin using Markov Models. PLoS Computat
 dynamic parameters of intracellular Calcium Signals. Frontiers in Physiology, 7, 525, 2016.
 7. S Wang, L MacKay, and G Lamoureux. Development of Semiempirical Models for Proton
 Transfer Reactions in Water. Journal of Chemical Theory and Computation. 10, 2881-2890, 2014.
+
 **(B) Published Conference Proceedings:**
-1 L MacKay, A Sherman, SS Stojilkovic and A Khadra. Deciphering the Kinetic and Gating
+1. L MacKay, A Sherman, SS Stojilkovic and A Khadra. Deciphering the Kinetic and Gating
 Properties of Purinergic P2X7 Receptor Channels. Athens Journal of Natural & Formal Sciences,
 Proceedings of the 1 st Annual International Conference on Physics & Chemistry, Athens, Greece, 43–
 55, 2014.
