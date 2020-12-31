@@ -34,9 +34,7 @@ Stochastic Processes, Feature Extraction, Vectorization & Code Optimization.
       * Intro to Electromagnetism (PHYS 102): Jan-Apr 2014 (Physics)
       
 ### PUBLICATIONS
-
 #### (A) Published Papers:
-
 1. Laurent MacKay, Etienne Lehman, Anmar Khadra. Deciphering the dynamics of
 lamellipodium in a fish keratocytes model. <br/> *[Journal of Theoretical Biology – In press]*
 1. Laurent Mackay, Anmar Khadra. The bioenergetics of integrin-based adhesion, from single
@@ -56,7 +54,6 @@ dynamic parameters of intracellular Calcium Signals. Frontiers in Physiology, 7,
 Transfer Reactions in Water. Journal of Chemical Theory and Computation. 10, 2881-2890, 2014.
 
 #### (B) Published Conference Proceedings:
-
 1. L MacKay, A Sherman, SS Stojilkovic and A Khadra. Deciphering the Kinetic and Gating
 Properties of Purinergic P2X7 Receptor Channels. Athens Journal of Natural & Formal Sciences,
 Proceedings of the 1 st Annual International Conference on Physics & Chemistry, Athens, Greece, 43–
