@@ -1,4 +1,6 @@
+
 ### PUBLICATIONS
+
 #### (A) Published Papers:
 1. Laurent MacKay, Etienne Lehman, Anmar Khadra. Deciphering the dynamics of
 lamellipodium in a fish keratocytes model. <br/> *[Journal of Theoretical Biology – In press]*
