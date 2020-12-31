@@ -69,8 +69,7 @@ Proceedings of the 1st Annual International Conference on Physics & Chemistry, A
 ### PRESENTATIONS & MEETINGS
 1. L. MacKay *“Introduction to Unix/Linux”* Code-tober 2020, Department of Physics, McGill
 University, Montreal, Canada, Oct 2020. *[Presentation]*
-2. 
-L. MacKay, *“Understanding the Effects of Mechanosensitive Nascent Adhesions in an
+2. L. MacKay, *“Understanding the Effects of Mechanosensitive Nascent Adhesions in an
 Oscillatory Lamellipodium”*, Biophysical Society 64 th Annual Meeting, San Diego, USA, Feb 2020.
 *[Poster]*
 3. L. MacKay *“Introduction to Unix/Linux”* Code-tober 2019, Department of Physics, McGill
