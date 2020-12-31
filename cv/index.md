@@ -59,3 +59,11 @@ Properties of Purinergic P2X7 Receptor Channels. Athens Journal of Natural & For
 Proceedings of the 1st Annual International Conference on Physics & Chemistry, Athens, Greece, 43–
 55, 2014.
 
+
+### PROFESSIONAL DEVELOPMENT
+1. Attended “Science Communication Day” workshop, McGill University, 2020.
+2. Attended “Translating Your Research To The Public” workshop, McGill University, 2019.
+3. Participant in the NIMBioS summer school on sensitivity analysis, University of Tennessee,
+2017. <br/> [ Selected for travel award funding ]
+4. Participant in the Montreal Light Microscopy workshop, McGill University, 2016.
+
