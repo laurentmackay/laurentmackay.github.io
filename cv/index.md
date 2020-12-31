@@ -2,7 +2,7 @@
 layout: default
 title: Laurent MacKay CV
 ---
-# EDUCATION
+### EDUCATION
 
 * Ph.D., Physiology, McGill University, Montreal, Canada (2015–2020).
     * Research Topic: Cellular Motility.
