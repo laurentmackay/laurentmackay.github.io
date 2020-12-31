@@ -21,3 +21,15 @@
 Processing, Numerical ODE Solvers, Mathematical Model Optimization, Physics-based Simulations,
 Stochastic Processes, Feature Extraction, Vectorization & Code Optimization.
 
+### TEACHING EXPERIENCE
+* **McGill University**, Montreal, Canada (2013–2020)
+   * *Teaching*
+      * Mathematical Methods in Biology (MATH 437/537): Feb–April 2020 (Physical/Mathematical Basis of Neuroscience)
+   * *Teaching Assistant*
+      * Mathematical Methods in Biology (MATH 437/537): Jan–Apr 2020 (Mathematics, Physics, Physiology, Biology & Neuroscience)
+      * Cell and Molecular Biology (BIOL 112): Jan–Apr 2018 (Biology)
+      * Organismal Biology (BIOL 111): Sept-Dec 2017 (Biology)
+      * Everyday Physics (PHYS 181): Jan-Apr 2015 (Physics)
+      * Dynamics of Simple Systems (PHYS 230): Sept-Dec 2014, 2015 (Physics)
+      * Intro to Electromagnetism (PHYS 102): Jan-Apr 2014 (Physics)
+
