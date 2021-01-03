@@ -8,9 +8,9 @@
 		<body>
 			<nav>
 	    		<ul>
-	        		<li><a href="/">Home</a></li>
-	        		<li><a href="/cv">CV</a></li>
-	        		<li><a href="/pubs">Publications</a></li>
+				  {% for item in site.data.navigation %}
+					<li><a href="{{ item.link }}"  {% if page.url == item.link and page.url !='/' %} style="color:black;" {% endif %} > {{ item.name }} </a></li>
+				  {% endfor %}
 	    		</ul>
 			</nav>
 			<div class="container">

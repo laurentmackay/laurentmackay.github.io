@@ -1,0 +1,3 @@
+{% capture my_include %}{% include {{ include.content }} %}{% endcapture %}
+{{ my_include | markdownify }}
+<h4>THIS IS THE HEADER.HTML</h4>

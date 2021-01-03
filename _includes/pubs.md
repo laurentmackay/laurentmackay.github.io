@@ -1,6 +1,4 @@
 
-### PUBLICATIONS
-
 #### (A) Published Papers:
 1. Laurent MacKay, Etienne Lehman, Anmar Khadra. Deciphering the dynamics of
 lamellipodium in a fish keratocytes model. <br/> *[Journal of Theoretical Biology – In press]*
@@ -25,4 +23,3 @@ Transfer Reactions in Water. Journal of Chemical Theory and Computation. 10, 288
 Properties of Purinergic P2X7 Receptor Channels. Athens Journal of Natural & Formal Sciences,
 Proceedings of the 1st Annual International Conference on Physics & Chemistry, Athens, Greece, 43–
 55, 2014.
-
