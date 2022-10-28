@@ -29,7 +29,7 @@ Stochastic Processes, Feature Extraction, Vectorization & Code Optimization, Qua
    * Developped quantitative 4D (3D space + time) microscopy tools for analyzing cytokinetic ring closure and movements during mitosis. 
    * See below for teaching duties.
 
-* **Developper** Oscilloscape, Hartforc CT, USA (Jan-May 2021)
+* **Developper** Oscilloscape, Hartford CT, USA (Jan-May 2021)
    * Ported an existing C++ realtime  DSP algorithm based on dyanamical systems to Python for use on a Raspberry Pi device. Heavy use of parallelization, JIT-compiled code (`numba`), and functional programming to acheive near realtime (<10 ms) execution from easy-to-read Python code.
 
 ### TEACHING EXPERIENCE
