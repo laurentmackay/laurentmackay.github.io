@@ -28,7 +28,8 @@ Stochastic Processes, Feature Extraction, Vectorization & Code Optimization, Qua
    * Carried out research on viscoelastic mechanics involved in tissue deformation, heavy use of code optimization techniques to speed-up computations.
    * Developped quantitative 4D (3D space + time) microscopy tools for analyzing cytokinetic ring closure and movements during mitosis. 
    * See below for teaching duties.
-<br/><br/>
+<br/>
+<br/>
 * **Developper** Oscilloscape, Hartford CT, USA (Jan-May 2021)
    * Ported an existing C++ realtime  DSP algorithm based on dyanamical systems to Python for use on a Raspberry Pi device. Heavy use of parallelization, JIT-compiled code (`numba`), and functional programming to acheive near realtime (<10 ms) execution from easy-to-read Python code.
 
@@ -37,6 +38,8 @@ Stochastic Processes, Feature Extraction, Vectorization & Code Optimization, Qua
    * *Teaching*
        * Differential Equations (MATH 256): Jan-Dec 2022
        * Differential Calculus with Applications to Life Sciences (MATH 102): Sept-Dec 2021
+<br/>
+<br/>
 * **McGill University**, Montreal, Canada (2013–2020)
    * *Teaching*
       * Mathematical Methods in Biology (MATH 437/537): Feb–April 2020 (Physical/Mathematical Basis of Neuroscience)
