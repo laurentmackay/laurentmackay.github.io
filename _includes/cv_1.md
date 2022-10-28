@@ -2,7 +2,7 @@
 
 * Ph.D., Physiology, McGill University, Montreal, Canada (2015–2020, Supervisor: Anmar Khadra).
     * Research Topic: Cellular Motility.
-    * Techniques: Stochastic Processes & Non-linear Dynamics, Dynamical Systems, Slow-Fast Analysis, Digital Signal Processing & Feature Extraction.
+    * Techniques: Stochastic Processes & Non-linear Dynamics, Dynamical Systems, Slow-Fast Analysis, Digital Signal Processing & Feature Extraction, 4D Microscopy Analysis.
 <br/>
 <br/>
 * M.Sc., Physics, McGill University, Montreal, Canada (2013–2015 , Supervisor: Anmar Khadra).
