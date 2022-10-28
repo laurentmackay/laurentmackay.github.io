@@ -31,7 +31,7 @@ Stochastic Processes, Feature Extraction, Vectorization & Code Optimization, Qua
 <br/>
 <br/>
 * **Developper** Oscilloscape, Hartford CT, USA (Jan-May 2021)
-   * Ported an existing C++ realtime  DSP algorithm based on dyanamical systems to Python for use on a Raspberry Pi device. Heavy use of parallelization, JIT-compiled code (`numba`), and functional programming to acheive near realtime (<10 ms) execution from easy-to-read Python code.
+   * Ported an existing C++ realtime  DSP algorithm based on dyanamical systems to Python for use on a Raspberry Pi device. Heavy use of parallelization, JIT-compiled code (`numba`), and functional programming to acheive near realtime (~10 ms) execution from easy-to-read Python code.
 
 ### TEACHING EXPERIENCE
 * **University of British Columbia**, Vancouver, Canada (2021-Present)
