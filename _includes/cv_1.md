@@ -22,6 +22,10 @@ Processing, Numerical ODE Solvers, Mathematical Model Optimization, Physics-base
 Stochastic Processes, Feature Extraction, Vectorization & Code Optimization.
 
 ### TEACHING EXPERIENCE
+* **University of British Columbia**, Vancouver, Canada (2021-Present)
+   * *Teaching*
+       * Differential Equations (MATH 256): Jan-Dec 2022
+       * Differential Calculus with Applications to Life Sciences (MATH 102): Sept-Dec 2021
 * **McGill University**, Montreal, Canada (2013–2020)
    * *Teaching*
       * Mathematical Methods in Biology (MATH 437/537): Feb–April 2020 (Physical/Mathematical Basis of Neuroscience)
