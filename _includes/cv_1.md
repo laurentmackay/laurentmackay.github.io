@@ -24,7 +24,7 @@ Processing, Numerical ODE Solvers, Mathematical Model Optimization, Physics-base
 Stochastic Processes, Feature Extraction, Vectorization & Code Optimization, Quantitative 4D Microscopy Analysis.
 
 ### PROFFESIONAL APPOINTMENTS
-* **Postdoctoral Teaching Fellow** University of British Columbia, Vancouver, Canada <br/>(2021-Present, Supervisors: James Feng & Eric Cytrynbaum)
+* **Postdoctoral Teaching Fellow** University of British Columbia, Vancouver, Canada (2021-Present, Supervisors: James Feng & Eric Cytrynbaum)
    * Carried out research on viscoelastic mechanics involved in tissue deformation, heavy use of code optimization techniques to speed-up computations.
    * Developped quantitative 4D (3D space + time) microscopy tools for analyzing cytokinetic ring closure and movements during mitosis. 
    * See below for teaching duties.
