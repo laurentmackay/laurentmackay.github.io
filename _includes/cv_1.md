@@ -2,10 +2,10 @@
 
 * Ph.D., Physiology, McGill University, Montreal, Canada (2015–2020, Supervisor: Anmar Khadra).
     * Research Topic: Cellular Motility.
-    * Techniques: Stochastic Processes & Non-linear Dynamics, Dynamical Systems, Slow-Fast Analysis, Digital Signal Processing & Feature Extraction.
+    * Techniques: Stochastic Processes & NonLinear Dynamics, Dynamical Systems, Slow-Fast Analysis, Digital Signal Processing & Feature Extraction.
 <br/>
 <br/>
-* M.Sc., Physics, McGill University, Montreal, Canada (2013–2015 , Supervisor: Anmar Khadra).
+* M.Sc., Physics, McGill University, Montreal, Canada (2013–2015, Supervisor: Anmar Khadra).
     * Research Topic: Markov Models of Ion Channels
     * Techniques: Numerical ODE Solvers, Bayesian Inference & Model Optimization (MCMC).
 <br/>
@@ -23,15 +23,15 @@
 Processing, Numerical ODE Solvers, Mathematical Model Optimization, Physics-based Simulations,
 Stochastic Processes, Feature Extraction, Vectorization & Code Optimization, Quantitative 4D Microscopy Analysis.
 
-### PROFFESIONAL APPOINTMENTS
+### PROFESSIONAL APPOINTMENTS
 * **Postdoctoral Teaching Fellow** University of British Columbia, Vancouver, Canada (2021-Present, Supervisors: James Feng & Eric Cytrynbaum)
    * Carried out research on viscoelastic mechanics involved in tissue deformation, heavy use of code optimization techniques to speed-up computations.
-   * Developped quantitative 4D (3D space + time) microscopy tools for analyzing cytokinetic ring closure and movements during mitosis. 
+   * Developed quantitative 4D (3D space + time) microscopy tools for analyzing cytokinetic ring closure and movements during mitosis. 
    * See below for teaching duties.
 <br/>
 <br/>
-* **Developper** Oscilloscape, Hartford CT, USA (Jan-May 2021)
-   * Ported an existing C++ realtime  DSP algorithm based on dyanamical systems to Python for use on a Raspberry Pi device. Heavy use of parallelization, JIT-compiled code (`numba`), and functional programming to acheive near realtime (~10 ms) execution from easy-to-read Python code.
+* **Developer** Oscilloscape, Hartford CT, USA (Jan-May 2021)
+   * Ported an existing C++ realtime  DSP algorithm based on dynamical systems to Python for use on a Raspberry Pi device. Heavy use of parallelization, JIT-compiled code (`numba`), and functional programming to achieve near realtime (~10 ms) execution from easy-to-read Python code.
 
 ### TEACHING EXPERIENCE
 * **University of British Columbia**, Vancouver, Canada (2021-Present)
