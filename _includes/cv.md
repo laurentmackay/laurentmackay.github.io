@@ -2,10 +2,10 @@
 
 * Ph.D., Physiology, McGill University, Montreal, Canada (2015–2020, Supervisor: Anmar Khadra).
     * Research Topic: Cellular Motility.
-    * Techniques: Stochastic Processes & Non-linear Dynamics, Dynamical Systems, Slow-Fast Analysis, Digital Signal Processing & Feature Extraction.
+    * Techniques: Stochastic Processes & NonLinear Dynamics, Dynamical Systems, Slow-Fast Analysis, Digital Signal Processing & Feature Extraction.
 <br/>
 <br/>
-* M.Sc., Physics, McGill University, Montreal, Canada (2013–2015 , Supervisor: Anmar Khadra).
+* M.Sc., Physics, McGill University, Montreal, Canada (2013–2015, Supervisor: Anmar Khadra).
     * Research Topic: Markov Models of Ion Channels
     * Techniques: Numerical ODE Solvers, Bayesian Inference & Model Optimization (MCMC).
 <br/>
@@ -70,7 +70,7 @@ Proceedings of the 1st Annual International Conference on Physics & Chemistry, A
 1. L. MacKay *“Introduction to Unix/Linux”* Code-tober 2020, Department of Physics, McGill
 University, Montreal, Canada, Oct 2020. *[Presentation]*
 2. L. MacKay, *“Understanding the Effects of Mechanosensitive Nascent Adhesions in an
-Oscillatory Lamellipodium”*, Biophysical Society 64 th Annual Meeting, San Diego, USA, Feb 2020.
+Oscillatory Lamellipodium”*, Biophysical Society 64th Annual Meeting, San Diego, USA, Feb 2020.
 *[Poster]*
 3. L. MacKay *“Introduction to Unix/Linux”* Code-tober 2019, Department of Physics, McGill
 University, Montreal, Canada, Oct 2019. *[Presentation]*
@@ -84,6 +84,6 @@ Signaling across Scales”, Banff, Canada, Aug 2018. *[Poster]*
 7. L. MacKay, *“Modelling the Mechanosensitivity of Adhesion Formation”*, Canadian
 Mathematical Society Winter Meeting, Vancouver Canada, Dec 2018. *[Presentation]*
 8. L. MacKay, *“Systematic Analysis of Transient Intracellular Calcium Signals in Live Cells”*,
-Biophysical Society 61 st Annual Meeting, New Orleans, USA, Feb 2017. *[Poster]*
+Biophysical Society 61st Annual Meeting, New Orleans, USA, Feb 2017. *[Poster]*
 9.  L. MacKay, *“Deciphering the Allosteric Modulation of the Purinergic P2X Receptors Using
 Markov Models”*, Canadian Mathematical Society Winter Meeting, Montreal, Canada, Dec 2015. *[Presentation]*
