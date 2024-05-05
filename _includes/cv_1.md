@@ -26,7 +26,7 @@ Stochastic Processes, Feature Extraction, Vectorization & Code Optimization, Qua
 ### PROFESSIONAL APPOINTMENTS
 * **Postdoctoral Teaching Fellow** University of British Columbia, Vancouver, Canada (2021-Present, Supervisors: James Feng & Eric Cytrynbaum)
    * Carried out research on viscoelastic mechanics involved in tissue deformation, heavy use of code optimization techniques to speed-up computations.
-   * Developed quantitative 4D (3D space + time) microscopy tools for analyzing cytokinetic ring closure and movements during mitosis. 
+   * Investigated continual tooth replacement in lower vertebrates using ODE and PDE phase oscillator models.
    * See below for teaching duties.
 <br/>
 <br/>
@@ -36,7 +36,7 @@ Stochastic Processes, Feature Extraction, Vectorization & Code Optimization, Qua
 ### TEACHING EXPERIENCE
 * **University of British Columbia**, Vancouver, Canada (2021-Present)
    * *Teaching*
-       * Differential Equations (MATH 256): Jan-Dec 2022
+       * Differential Equations (MATH 256, MATH 215/255): Jan 2022 - Apr 2024
        * Differential Calculus with Applications to Life Sciences (MATH 102): Sept-Dec 2021
 <br/>
 <br/>
