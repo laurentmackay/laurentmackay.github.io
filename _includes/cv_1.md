@@ -36,6 +36,8 @@ Stochastic Processes, Feature Extraction, Vectorization & Code Optimization, Qua
 ### INTERNSHIPS & PART-TIME
 * **Digital Signal Processing Intern** Interaxon, Toronto, Canada (May-Aug 2019)
   * Tested the feasibility and applicability of the FOOF (fitting oscillations & one over f) methodology to data obtained from a consumer-grade EEG headband.
+<br/>
+<br/>
 * **Web Developer** Centre for Structural and Fungal Genomics (Concordia University), Montreal, Canada
    * Built a data pipeline for managaing an annotated database of enzymes of interest.(2009-2013)
    * Designed a variety of web-based data visualiation apps for existing bio-informatics computational tools
