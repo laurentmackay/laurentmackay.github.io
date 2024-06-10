@@ -30,9 +30,17 @@ Stochastic Processes, Feature Extraction, Vectorization & Code Optimization, Qua
    * See below for teaching duties.
 <br/>
 <br/>
-* **Developer** Oscilloscape, Hartford CT, USA (Jan-May 2021)
+* **Developer** Oscilloscape, Hartford CT, USA (Sept 2020-May 2021)
    * Ported an existing C++ realtime  DSP algorithm based on dynamical systems to Python for use on a Raspberry Pi device. Heavy use of parallelization, JIT-compiled code (`numba`), and functional programming to achieve near realtime (~10 ms) execution from easy-to-read Python code.
+ 
+### INTERNSHIPS & PART-TIME
+* **Digital Signal Processing Intern** Interaxon, Toronto, Canada (May-Aug 2019)
+  * Tested the feasibility and applicability of the FOOF (fitting oscillations & one over f) methodology to data obtained from a consumer-grade EEG headband.
+* **Web Developer** Centre for Structural and Fungal Genomics (Concordia University), Montreal, Canada
+   * Built a data pipeline for managaing an annotated database of enzymes of interest.(2009-2013)
+   * Designed a variety of web-based data visualiation apps for existing bio-informatics computational tools
 
+  
 ### TEACHING EXPERIENCE
 * **University of British Columbia**, Vancouver, Canada (2021-Present)
    * *Teaching*
