@@ -1,7 +1,10 @@
 
 #### (A) Published Papers:
+1. Kirstin S. Brink,  Laurent MacKay, Joaquin I. Henriquez, Theresa M. Grieco, Marcus Lai, Rodolfo M. Del Campo, Anna Zhitnitsky, Eric N. Cytrynbaum, Joy M. Richman. Experimental studies into the spatial-temporal control of life-long tooth replacement in the reptilian dentition. <br/> *[In Preparation]*
+1. Laurent MacKay, Joy M. Richman, Eric N. Cytrynbaum. On the phase dynamics of cyclic tooth replacement in lower vertebrates. <br/> *[In Preparation]*
+1. Laurent MacKay, Eric N. Cytrynbaum, James. J. Feng. Stress-relaxation in a self-constricting model of tubulogenesis during *Drosophila* salivary gland invagination. <br/> *[In Preparation]*
 1. Laurent MacKay, Etienne Lehman, Anmar Khadra. Deciphering the dynamics of
-lamellipodium in a fish keratocytes model. <br/> *[Journal of Theoretical Biology – In press]*
+lamellipodium in a fish keratocytes model. Journal of Theoretical Biology. 512, 110534, 2021.
 1. Laurent Mackay, Anmar Khadra. The bioenergetics of integrin-based adhesion, from single
 molecule dynamics to stability of macromolecular complexes. Computational and Structural
 Biotechnology Journal. 18, 393-416, 2020.
