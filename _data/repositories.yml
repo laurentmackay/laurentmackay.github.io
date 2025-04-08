@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - laurentmackay
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - laurentmackay/3d-vertex
+  - laurentmackay/gecko_teeth
+  - laurentmackay/ResearchTools
+  - laurentmackay/AUTO-07p_installation
+  - laurentmackay/calcium_parametrize
+  - laurentmackay/RingTracker
+  - laurentmackay/RD_lab
+

@@ -183,6 +183,15 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.list-group-item {
+  background-color: var(--global-card-bg-color);
+  border-color: var(--global-divider-color);
+}
+.badge {
+	 background-color: var(--global-theme-color);
+	 padding-left: 1rem; padding-right: 1rem;
+ }
+
 // Citation
 
 .citation,
@@ -217,7 +226,7 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 20%;
 
     .address {
       p {
@@ -513,15 +522,7 @@ footer.sticky-bottom {
     background-color: var(--global-card-bg-color);
     border: 1px solid var(--global-divider-color);
 
-    .list-group-item {
-      background-color: inherit;
-      border-color: var(--global-divider-color);
 
-      .badge {
-        color: var(--global-card-bg-color) !important;
-        background-color: var(--global-theme-color) !important;
-      }
-    }
   }
 }
 
