@@ -106,27 +106,29 @@
       "studyType": "BSc",
       "startDate": "2008-08-01",
       "endDate": "2013-04-30",
-      "score": "3.64",
+      "score": "3.60",
       "courses": ["<b>Specialization:</b> Computational Chemistry."]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "The Walter Raudorf Medal for Physics",
+      "date": "2013-05-17",
+      "awarder": "Department of Physics, Concordia University",
+      "url": "https://www.concordia.ca/artsci/physics.html",
+      "summary": ""
     }
   ],
   "skills": [
     {
       "name": "Physics",
-      "level": "Master",
+      "level": "Intermediate",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
+      	"Biophysics",
+      	"Statistical Mechanics",
         "Quantum Mechanics",
-        "Quantum Computing",
+        "Computational Chemistry",
         "Quantum Information",
         "Quantum Cryptography",
         "Quantum Communication",
@@ -145,29 +147,6 @@
       "fluency": "Fluent",
       "icon": ""
     }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
   ]
+
 }
