@@ -121,6 +121,31 @@
   ],
   "skills": [
     {
+      "name": "Mathematics",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      	"Calculus",
+      	"Linear Algebra",
+      	"Numerical Methods",
+      	"Differential Equations",
+        "Dynamical Systems",
+        "Stochastic Processes",
+        "Probability Theory"
+      ]
+    },
+        {
+      "name": "Programming",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+      	"Code Optimization",
+      	"Vectorization",
+        "Parallelization",
+        "System Architect"
+      ]
+    },
+        {
       "name": "Physics",
       "level": "Intermediate",
       "icon": "fa-solid fa-hashtag",
@@ -128,11 +153,7 @@
       	"Biophysics",
       	"Statistical Mechanics",
         "Quantum Mechanics",
-        "Computational Chemistry",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Computational Chemistry"
       ]
     }
   ],
