@@ -23,14 +23,50 @@
     ]
   },
   "work": [
+  	    {
+      "name": "Outlier AI",
+      "position": "Freelance AI Trainer (Physics/Math/STEM)",
+      "url": "https://outlier.ai",
+      "startDate": "2024-10-06",
+      "endDate": "",
+      "summary": "Create high quality data for AI models using expert knowledge and a high attention to detail in a dynamic and time-sensitive environment.",
+      "highlights": ["Reasoning, Problem Solving, AI Prompting, Repetitive Tasks, Attention to Detail"]
+    },
     {
       "name": "Deptartment of Mathematics, University of British Columbia",
       "position": "Postdoctoral Fellow",
-      "url": "https://example.com",
+      "url": "https://www.math.ubc.ca/",
       "startDate": "2021-06-01",
       "endDate": "2024-06-01",
       "summary": "Used high-performance computing methods to study phenonmena in developmental biology. Also taught calculus and differential equations to science and engineering students.",
       "highlights": ["Applied Mathematics, ODEs, PDEs, Dynamical Systems"]
+    },
+     {
+      "name": "Oscilloscape LLC",
+      "position": "Digital Signal Processing Developer",
+      "url": "https://oscillobiosciences.com/",
+      "startDate": "2020-08-01",
+      "endDate": "2021-04-01",
+      "summary": "Optimized real-time <a href='https://github.com/MusicDynamicsLab/GrFNNToolbox'>auditory processing</a> algorithms (>100x speedup) for deployment on low-end hardware.",
+      "highlights": ["Python, C++, Signal Processing, Nonlinear ODEs, Realtime Algorithms, Raspberry Pi"]
+    },
+     {
+      "name": "InterAxon (Muse)",
+      "position": "Digital Signal Processing Intern",
+      "url": "https://choosemuse.com/",
+      "startDate": "2019-05-01",
+      "endDate": "2019-09-01",
+      "summary": "Enhanced signal processing accuracy by implementing advanced de-noising techniques (<a href='https://iopscience.iop.org/article/10.1088/0022-3735/16/6/020/pdf'>optimally smooth FFT</a>) and feature extraction algorithms (<a href='https://fooof-tools.github.io/fooof/'>FOOOF</a>), leading to more reliable biomedical data insights.",
+      "highlights": ["Python, Signal Processing, Data Analysis, Feature Extraction"]
+    },
+     {
+      "name": "Centre for Structural and Functional Genomics",
+      "position": "Part-time Web Developer",
+      "url": "https://www.concordia.ca/research/genomics.html",
+      "startDate": "2009",
+      "endDate": "2012",
+      "summary": "Streamlined data pipelines and developed interactive visualization tools for bioinformatics applications, enhancing accessibility of enzyme annotation data for researchers.",
+      "highlights": ["Java, HTML, Apache Tomcat, d3.js"]
     }
   ],
   "education": [
